@@ -12,7 +12,6 @@ I am Rongxing Du, a student now studying at Zhejiang University, Chu Ko Chen hon
 interest lies in the theory and application in Artificial Intelligence like Optimization Theory and Deep Learning.
 
 Research Experience
-
 ======
 Remote intern at Virginia Tech, from May 2023 to November 2023.
 
