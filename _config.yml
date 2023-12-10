@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "Rongxing Du / Home Page"
+title                    : "Rongxing Du / HomePage"
 title_separator          : "-"
 name                     : &name "Rongxing Du"
 description              : &description "Now a student at Zhejiang University"
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -96,24 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/RongxingDu"
+  github           : "RongxingDu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
   xing             :
-  youtube          :
   wikipedia        :
 
 
